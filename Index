@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tanuj Dahal - Programmer Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #6dd5ed, #2193b0);
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            text-align: center;
+            color: #2193b0;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li::before {
+            content: '⭐';
+            margin-right: 10px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .contact {
+            text-align: center;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Tanuj Dahal</h1>
+        <p style="text-align: center;">Aspiring Programmer | Future Tech Guru</p>
+
+        <div class="section">
+            <h2>Objective</h2>
+            <p>To secure the Programmer position at your esteemed organization, leveraging my exceptional knowledge of programming languages and unwavering passion for technology and innovation.</p>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <ul>
+                <li>Class 8 Graduate (GPA: 3.77)</li>
+                <li>Consistently achieved 49/50 or higher in Computer Science throughout the year 2080</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Achievements</h2>
+            <ul>
+                <li>1st Place, QBasic Olympiad (2080)</li>
+                <li>Recognized as the “Future Tech Guru” by my computer teacher (unofficial but heartfelt)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>Advanced proficiency in Godot and Scratch</li>
+                <li>Exceptional knowledge of Python programming</li>
+                <li>Adept at making paper planes fly farther than anyone else in class</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Experience</h2>
+            <ul>
+                <li>Lead Developer, Personal Projects (2080)</li>
+                <li>Created multiple interactive games using Godot and Scratch</li>
+                <li>Automated homework reminders using Python scripts</li>
+                <li>Designed a “Smart Classroom” system (still theoretical, but visionary)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Soft Skills</h2>
+            <ul>
+                <li>Excellent problem-solving and critical-thinking abilities</li>
+                <li>Outstanding teamwork and collaboration skills (always share my snacks)</li>
+                <li>Great under pressure (like when exams approach)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Additional Qualifications</h2>
+            <ul>
+                <li>40+ in computer (and 100+ in enthusiasm)</li>
+                <li>2+ years of interest in programming (and a lifetime commitment to innovation)</li>
+            </ul>
+        </div>
+
+        <div class="contact">
+            <p>References available upon request (or you can ask my friends—they’ll vouch for my skills)</p>
+        </div>
+    </div>
+</body>
+</html>
